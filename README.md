@@ -2,7 +2,7 @@
 
 A web application for analyzing Excel sales data through interactive dashboards and key performance indicators.
 
-## Live Demo
+## Live Application
 
 **[Open SmartExcel Automation](https://smart-excel-automation.vercel.app/)**
 
